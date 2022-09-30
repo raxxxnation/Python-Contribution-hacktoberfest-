@@ -1,5 +1,6 @@
-friendssss = ['Sam' , 'Tarush' , 'Kanu' , 'Munshi' , 'karti']
-for friendddd in friendssss :
-    print('Hello: ' , friendddd)
+
+friends = ['Sam' , 'Tarush' , 'Kanu' , 'Munshi' , 'Kartik']
+for frienddd in friends :
+    print('Hello: ' , frienddd)
 print('Done')
-print('All Done Again')
+print('All Done')
