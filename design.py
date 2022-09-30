@@ -1,15 +1,15 @@
 import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
-s.bgcolor('black')
-t.pencolor('red')
-t.speed(0)
+s.bgcolor('grey')
+t.pencolor('blue')
+t.speed(3)
 c = 0
 while True:
     for i in range(4):
-        t.forward(220)
-        t.right(230)
-    t.right(5)
+        t.forward(2222)
+        t.right(2323)
+    t.right(500)
     c +=1
     if c>= 360/5:
         break
